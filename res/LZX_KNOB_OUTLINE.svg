@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.037363mm"
+   height="10.039058mm"
+   viewBox="0 0 10.037363 10.039058"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="LZX_KNOB_OUTLINE.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.9611953"
+     inkscape:cx="18.742432"
+     inkscape:cy="19.755536"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath948">
+      <path
+         d="m 64.635,223.361 h 43.529 v 43.526 H 64.635 Z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,485.664)"
+         id="path948" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask943"
+       opacity="0.449997">
+      <g
+         id="g944"
+         clip-path="url(#clipPath945)">
+        <image
+           width="1"
+           height="1"
+           style="image-rendering:optimizeSpeed"
+           preserveAspectRatio="none"
+           xlink:href="../../../../../../Pictures/lzxart-main/Keyer/LZX%2012HP%20Keyer%20Frontpanel%20Color%20Graphic%20Dark_img0.png"
+           transform="matrix(21.333333,0,0,34.666665,104.5332,140.16465)"
+           clip-path="url(#clipPath944)"
+           id="image944" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath945">
+      <path
+         d="m 78.3998,259.124 h 16 v -26 h -16 z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,485.664)"
+         id="path945" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath944">
+      <path
+         d="m 78.3999,259.125 h 16 v -26 h -16 z"
+         transform="matrix(0.0625,0,0,-0.03846154,-4.8999938,9.9663279)"
+         id="path944" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath946">
+      <path
+         d="m 80.7478,256.428 h 11.304 V 235.26 h -11.304 z"
+         transform="translate(-86.402702,-256.42801)"
+         id="path946" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath939">
+      <path
+         d="m 64.635,223.361 h 43.529 v 43.526 H 64.635 Z"
+         transform="translate(-93.513902,-257.44911)"
+         id="path939" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath939-6">
+      <path
+         d="m 64.635,223.361 h 43.529 v 43.526 H 64.635 Z"
+         transform="translate(-93.513902,-257.44911)"
+         id="path939-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath948-6">
+      <path
+         d="m 64.635,223.361 h 43.529 v 43.526 H 64.635 Z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,485.664)"
+         id="path948-4" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask943-2"
+       opacity="0.449997">
+      <g
+         id="g944-4"
+         clip-path="url(#clipPath945-7)">
+        <image
+           width="1"
+           height="1"
+           style="image-rendering:optimizeSpeed"
+           preserveAspectRatio="none"
+           xlink:href="../../../../../../Pictures/lzxart-main/Keyer/LZX%2012HP%20Keyer%20Frontpanel%20Color%20Graphic%20Dark_img0.png"
+           transform="matrix(21.333333,0,0,34.666665,104.5332,140.16465)"
+           clip-path="url(#clipPath944-3)"
+           id="image944-7" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath945-7">
+      <path
+         d="m 78.3998,259.124 h 16 v -26 h -16 z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,485.664)"
+         id="path945-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath944-3">
+      <path
+         d="m 78.3999,259.125 h 16 v -26 h -16 z"
+         transform="matrix(0.0625,0,0,-0.03846154,-4.8999938,9.9663279)"
+         id="path944-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath946-2">
+      <path
+         d="m 80.7478,256.428 h 11.304 V 235.26 h -11.304 z"
+         transform="translate(-86.402702,-256.42801)"
+         id="path946-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath948-61">
+      <path
+         d="m 64.635,223.361 h 43.529 v 43.526 H 64.635 Z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,485.664)"
+         id="path948-1" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask943-6"
+       opacity="0.449997">
+      <g
+         id="g944-3"
+         clip-path="url(#clipPath945-3)">
+        <image
+           width="1"
+           height="1"
+           style="image-rendering:optimizeSpeed"
+           preserveAspectRatio="none"
+           xlink:href="../../../../../../Pictures/lzxart-main/Keyer/LZX%2012HP%20Keyer%20Frontpanel%20Color%20Graphic%20Dark_img0.png"
+           transform="matrix(21.333333,0,0,34.666665,104.5332,140.16465)"
+           clip-path="url(#clipPath944-0)"
+           id="image944-77" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath945-3">
+      <path
+         d="m 78.3998,259.124 h 16 v -26 h -16 z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,485.664)"
+         id="path945-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath944-0">
+      <path
+         d="m 78.3999,259.125 h 16 v -26 h -16 z"
+         transform="matrix(0.0625,0,0,-0.03846154,-4.8999938,9.9663279)"
+         id="path944-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath946-6">
+      <path
+         d="m 80.7478,256.428 h 11.304 V 235.26 h -11.304 z"
+         transform="translate(-86.402702,-256.42801)"
+         id="path946-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath939-0">
+      <path
+         d="m 64.635,223.361 h 43.529 v 43.526 H 64.635 Z"
+         transform="translate(-93.513902,-257.44911)"
+         id="path939-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath939-7">
+      <path
+         d="m 64.635,223.361 h 43.529 v 43.526 H 64.635 Z"
+         transform="translate(-93.513902,-257.44911)"
+         id="path939-8" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-101.86458,-145.25625)">
+    <path
+       id="path938"
+       d="m 0,0 c -6.795,3.924 -15.514,1.587 -19.437,-5.208 -3.923,-6.796 -1.586,-15.517 5.209,-19.441 6.795,-3.924 15.514,-1.587 19.437,5.209 C 9.131,-12.645 6.795,-3.924 0,0"
+       style="display:inline;fill:#383838 icc-color(sRGB-IEC61966-2, 0.1, 0.21998596, 0.21998596, 0.21998596);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.35277776,0,0,-0.35277776,109.393,145.92798)"
+       clip-path="url(#clipPath939-7)" />
+    <path
+       id="path943"
+       d="m 106.88401,148.75655 1.16593,4.3688 h -2.33327 z m 3.5e-4,-2.46839 -1.99496,7.4676 h 3.9878 z"
+       style="display:inline;fill:#ffffff icc-color(sRGB-IEC61966-2, 0.1, 1, 1, 1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778" />
+  </g>
+</svg>
