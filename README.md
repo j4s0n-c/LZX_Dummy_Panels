@@ -1,5 +1,6 @@
 # LZX_Dummy_Panels
 Dummy panels of LZX Gen3 modules for patch documentation using VCV Rack 2.
+![image](https://github.com/j4s0n-c/LZX_Dummy_Panels/assets/4063528/3ba3259d-e03d-4410-9fb9-2bd5d439215c)
 
 **Installation:**
 
