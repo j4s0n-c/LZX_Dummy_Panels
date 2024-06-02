@@ -1,0 +1,77 @@
+{
+  "slug": "LZX_DUMMY",
+  "name": "LZX_DUMMY",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "LZX_DUMMY",
+  "author": "j4s0n",
+  "authorEmail": "j4s0n.c4s3y@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "FKG3",
+      "name": "FKG3",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "SMX3",
+      "name": "SMX3",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "SUM_DIST",
+      "name": "SUM_DIST",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "ESG3",
+      "name": "ESG3",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "DWO3",
+      "name": "DWO3",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "DSG3",
+      "name": "DSG3",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "KEYCHAIN",
+      "name": "KEYCHAIN",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "MATTE",
+      "name": "MATTE",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "PROC",
+      "name": "PROC",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "STAIRS",
+      "name": "STAIRS",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
